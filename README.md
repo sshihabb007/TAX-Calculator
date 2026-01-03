@@ -1,4 +1,4 @@
-# 🏦 TaxEngine.bd
+# 🏦 ShihabTaxEngine.bd
 **A Professional, Future-Ready Income Tax Calculation Engine for Bangladesh.**
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
